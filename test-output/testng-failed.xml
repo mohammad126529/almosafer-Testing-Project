@@ -6,7 +6,8 @@
       <class name="homePage.myTestcases">
         <methods>
           <include name="mySetup"/>
-          <include name="soso"/>
+          <include name="CheckThePageFullyLoaded"/>
+          <include name="SortItemsLowestToHighestPrice"/>
         </methods>
       </class> <!-- homePage.myTestcases -->
     </classes>
