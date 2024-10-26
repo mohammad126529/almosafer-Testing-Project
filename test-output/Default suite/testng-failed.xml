@@ -5,9 +5,8 @@
     <classes>
       <class name="homePage.myTestcases">
         <methods>
-          <include name="CheckTheDefaultLanguageIsEnglish"/>
           <include name="mySetup"/>
-          <include name="CheckQitafLogo"/>
+          <include name="soso"/>
         </methods>
       </class> <!-- homePage.myTestcases -->
     </classes>
