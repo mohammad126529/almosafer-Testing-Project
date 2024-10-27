@@ -2,48 +2,48 @@
 <testng-results ignored="2" total="11" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-26T19:28:48 EET" name="Default suite" finished-at="2024-10-26T19:28:57 EET" duration-ms="9032">
+  <suite started-at="2024-10-27T09:07:36 EET" name="Default suite" finished-at="2024-10-27T09:07:44 EET" duration-ms="8195">
     <groups>
     </groups>
-    <test started-at="2024-10-26T19:28:48 EET" name="Default test" finished-at="2024-10-26T19:28:57 EET" duration-ms="9032">
+    <test started-at="2024-10-27T09:07:36 EET" name="Default test" finished-at="2024-10-27T09:07:44 EET" duration-ms="8195">
       <class name="homePage.myTestcases">
-        <test-method is-config="true" signature="mySetup()[pri:0, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:48 EET" name="mySetup" finished-at="2024-10-26T19:28:52 EET" duration-ms="4065" status="PASS">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:36 EET" name="mySetup" finished-at="2024-10-27T09:07:39 EET" duration-ms="3161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySetup -->
-        <test-method signature="CheckTheDefaultLanguageIsEnglish()[pri:1, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="CheckTheDefaultLanguageIsEnglish" finished-at="2024-10-26T19:28:52 EET" duration-ms="64" status="PASS">
+        <test-method signature="CheckTheDefaultLanguageIsEnglish()[pri:1, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="CheckTheDefaultLanguageIsEnglish" finished-at="2024-10-27T09:07:39 EET" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckTheDefaultLanguageIsEnglish -->
-        <test-method signature="CheckDefaultCurrency()[pri:2, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="CheckDefaultCurrency" finished-at="2024-10-26T19:28:52 EET" duration-ms="115" status="PASS">
+        <test-method signature="CheckDefaultCurrency()[pri:2, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="CheckDefaultCurrency" finished-at="2024-10-27T09:07:39 EET" duration-ms="47" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckDefaultCurrency -->
-        <test-method signature="CheckContactNumber()[pri:3, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="CheckContactNumber" finished-at="2024-10-26T19:28:52 EET" duration-ms="25" status="PASS">
+        <test-method signature="CheckContactNumber()[pri:3, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="CheckContactNumber" finished-at="2024-10-27T09:07:39 EET" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckContactNumber -->
-        <test-method signature="CheckQitafLogo()[pri:4, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="CheckQitafLogo" finished-at="2024-10-26T19:28:52 EET" duration-ms="52" status="PASS">
+        <test-method signature="CheckQitafLogo()[pri:4, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="CheckQitafLogo" finished-at="2024-10-27T09:07:39 EET" duration-ms="63" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckQitafLogo -->
-        <test-method signature="TestHotelTabNotSelected()[pri:5, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="TestHotelTabNotSelected" finished-at="2024-10-26T19:28:52 EET" duration-ms="34" status="PASS">
+        <test-method signature="TestHotelTabNotSelected()[pri:5, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="TestHotelTabNotSelected" finished-at="2024-10-27T09:07:39 EET" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestHotelTabNotSelected -->
-        <test-method signature="CheckDepatureDate()[pri:6, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="CheckDepatureDate" finished-at="2024-10-26T19:28:52 EET" duration-ms="35" status="PASS">
+        <test-method signature="CheckDepatureDate()[pri:6, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="CheckDepatureDate" finished-at="2024-10-27T09:07:39 EET" duration-ms="36" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CheckDepatureDate -->
-        <test-method signature="RandomChangeTheLanguage()[pri:7, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:52 EET" name="RandomChangeTheLanguage" finished-at="2024-10-26T19:28:53 EET" duration-ms="714" status="PASS">
+        <test-method signature="RandomChangeTheLanguage()[pri:7, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:39 EET" name="RandomChangeTheLanguage" finished-at="2024-10-27T09:07:40 EET" duration-ms="697" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RandomChangeTheLanguage -->
-        <test-method signature="FillHotleTab()[pri:8, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:53 EET" name="FillHotleTab" finished-at="2024-10-26T19:28:54 EET" duration-ms="1129" status="PASS">
+        <test-method signature="FillHotleTab()[pri:8, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:40 EET" name="FillHotleTab" finished-at="2024-10-27T09:07:41 EET" duration-ms="1113" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FillHotleTab -->
-        <test-method signature="RandomSelectThenumberofVistor()[pri:9, instance:homePage.myTestcases@2cf23c81]" started-at="2024-10-26T19:28:54 EET" name="RandomSelectThenumberofVistor" finished-at="2024-10-26T19:28:57 EET" duration-ms="2759" status="PASS">
+        <test-method signature="RandomSelectThenumberofVistor()[pri:9, instance:homePage.myTestcases@34645867]" started-at="2024-10-27T09:07:41 EET" name="RandomSelectThenumberofVistor" finished-at="2024-10-27T09:07:44 EET" duration-ms="2932" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RandomSelectThenumberofVistor -->
